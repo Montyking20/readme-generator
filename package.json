@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/montyking20/readme-generator#readme",
   "dependencies": {
+    "express": "^4.17.3",
     "inquirer": "^8.2.0",
     "table": "^6.8.0"
   }
