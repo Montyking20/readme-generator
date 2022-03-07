@@ -49,6 +49,10 @@ run node index.js and follow the prompts.
 Mockup<br>
 <a id='screenshots' href='#readme-badges'><img id='usage' src='https://i.imgur.com/undefined.png' style='height: 400px'></a>
  
+![Screencast](/assets/video/screencast.webm)
+
+ ![Screencast](/assets/video/screencast.gif)
+
  ![Screenshot](/assets/images/Screenshot-readme.png)
 
 ## <a id='questions' href='#readme-badges'><img id='usage' src='https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/questions-alt.png?raw=true' style='height: 40px'></a>
