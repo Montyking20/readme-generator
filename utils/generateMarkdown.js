@@ -6,7 +6,7 @@ const generateMarkdown = ({ projectName, description, techUsed, installation, us
 
 
 
-[![License](https://img.shields.io/badge/License-${license}-blue.svg)](https://opensource.org/licenses/${license})
+![License](https://img.shields.io/badge/License-${license}-blue.svg)
 
 
 ## <a href='#readme-badges'><img id='usage' src='https://i.imgur.com/mIa9BIm.png' style='height: 40px'></a>

@@ -2,8 +2,7 @@
 # Readme-Generator
 
 
-
-[![License](https://img.shields.io/badge/License-Educational Community License v2.0-blue.svg)](https://opensource.org/licenses/Educational Community License v2.0)
+![License](https://img.shields.io/badge/License-${license}-blue.svg)
 
 
 ## <a href='#readme-badges'><img id='usage' src='https://i.imgur.com/mIa9BIm.png' style='height: 40px'></a>
